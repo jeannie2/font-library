@@ -15,7 +15,7 @@
     "json-stringify-pretty-compact": "^3.0.0",
     "jsonlint": "^1.6.3",
     "lint-staged": "^12.4.1",
-    "node-fetch": "^2.6.7",
+    "node-fetch": "^3.2.4",
     "prettier": "^2.6.2",
     "scsslint": "0.0.3"
   },
