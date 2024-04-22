@@ -18389,7 +18389,7 @@
     "variants": ["300", "regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext"],
     "category": "sans-serif",
-    "tags": [],
+    "tags": ["grotesque"],
     "lineNumber": 1453,
     "variable": true,
     "lastModified": "2023-09-14"
