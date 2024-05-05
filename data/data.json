@@ -10431,7 +10431,7 @@
     "variants": ["regular"],
     "subsets": ["math", "symbols", "latin", "latin-ext"],
     "category": "display",
-    "tags": ["kint", "small sizes"],
+    "tags": ["small sizes"],
     "lineNumber": 837,
     "variable": false,
     "lastModified": "2024-02-16"
@@ -13167,7 +13167,7 @@
     ],
     "subsets": ["symbols", "latin", "latin-ext"],
     "category": "sans-serif",
-    "tags": [],
+    "tags": ["icons", "dingbat"],
     "lineNumber": 1059,
     "variable": true,
     "lastModified": "2024-05-02"

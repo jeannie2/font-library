@@ -646,7 +646,7 @@ exports[`MainApp renders correctly 1`] = `
                 
             <button
               is="tag-button"
-              style="font-family: "Grandiflora One";"
+              style="font-family: "Briem Hand";"
               title="connected"
               value="connected"
             >
@@ -798,7 +798,7 @@ exports[`MainApp renders correctly 1`] = `
                 
             <button
               is="tag-button"
-              style="font-family: "Noto Sans Symbols 2";"
+              style="font-family: "Noto Sans Symbols";"
               title="dingbat"
               value="dingbat"
             >
@@ -1583,25 +1583,6 @@ exports[`MainApp renders correctly 1`] = `
             >
               
                   kids
-                
-            </button>
-            
-              
-          </li>
-          
-              
-              
-          <li>
-            
-                
-            <button
-              is="tag-button"
-              style="font-family: "Micro 5";"
-              title="kint"
-              value="kint"
-            >
-              
-                  kint
                 
             </button>
             
@@ -3542,14 +3523,6 @@ exports[`MainApp renders correctly 1`] = `
               >
                 
                     kids
-                  
-              </option>
-              <option
-                id="kint"
-                value="kint"
-              >
-                
-                    kint
                   
               </option>
               <option

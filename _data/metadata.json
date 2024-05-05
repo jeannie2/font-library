@@ -162,7 +162,7 @@
     },
     {
       "name": "dingbat",
-      "sample": "Noto Sans Symbols 2"
+      "sample": "Noto Sans Symbols"
     },
     {
       "name": "disco",
@@ -327,10 +327,6 @@
     {
       "name": "kids",
       "sample": "Butterfly Kids"
-    },
-    {
-      "name": "kint",
-      "sample": "Micro 5"
     },
     {
       "name": "knit",
