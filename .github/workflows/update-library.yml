@@ -26,6 +26,10 @@ jobs:
         env:
           GoogleToken: ${{ secrets.GoogleToken }}
 
+      - run: npm run build
+
+      - run: npm run test -- -u
+
       - name: Commit files
         if: env.UpdatedLibrary == 'true' && env.AutoTag != 'true'
         run: |
