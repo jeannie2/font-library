@@ -13813,7 +13813,7 @@
     "tags": [],
     "lineNumber": 1101,
     "variable": true,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-05-14"
   },
   {
     "family": "Noto Serif Hebrew",
@@ -13837,23 +13837,23 @@
   },
   {
     "family": "Noto Serif JP",
-    "variants": ["200", "300", "regular", "500", "600", "700", "900"],
-    "subsets": ["japanese", "latin"],
+    "variants": ["200", "300", "regular", "500", "600", "700", "800", "900"],
+    "subsets": ["cyrillic", "japanese", "vietnamese", "latin", "latin-ext"],
     "category": "serif",
     "tags": ["japanese"],
     "lineNumber": 1103,
     "variable": false,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-05-14"
   },
   {
     "family": "Noto Serif KR",
-    "variants": ["200", "300", "regular", "500", "600", "700", "900"],
-    "subsets": ["korean", "latin"],
+    "variants": ["200", "300", "regular", "500", "600", "700", "800", "900"],
+    "subsets": ["cyrillic", "korean", "vietnamese", "latin", "latin-ext"],
     "category": "serif",
     "tags": [],
     "lineNumber": 1104,
     "variable": false,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-05-14"
   },
   {
     "family": "Noto Serif Kannada",
@@ -14027,13 +14027,19 @@
   },
   {
     "family": "Noto Serif SC",
-    "variants": ["200", "300", "regular", "500", "600", "700", "900"],
-    "subsets": ["chinese-simplified", "latin"],
+    "variants": ["200", "300", "regular", "500", "600", "700", "800", "900"],
+    "subsets": [
+      "chinese-simplified",
+      "cyrillic",
+      "vietnamese",
+      "latin",
+      "latin-ext"
+    ],
     "category": "serif",
     "tags": ["small caps"],
     "lineNumber": 1117,
     "variable": false,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-05-14"
   },
   {
     "family": "Noto Serif Sinhala",
@@ -14057,13 +14063,19 @@
   },
   {
     "family": "Noto Serif TC",
-    "variants": ["200", "300", "regular", "500", "600", "700", "900"],
-    "subsets": ["chinese-traditional", "latin"],
+    "variants": ["200", "300", "regular", "500", "600", "700", "800", "900"],
+    "subsets": [
+      "chinese-traditional",
+      "cyrillic",
+      "vietnamese",
+      "latin",
+      "latin-ext"
+    ],
     "category": "serif",
     "tags": [],
     "lineNumber": 1119,
     "variable": false,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-05-14"
   },
   {
     "family": "Noto Serif Tamil",
