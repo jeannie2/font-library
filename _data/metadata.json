@@ -130,7 +130,7 @@
     },
     {
       "name": "connected",
-      "sample": "Briem Hand"
+      "sample": "Grandiflora One"
     },
     {
       "name": "copperplate",
@@ -770,5 +770,5 @@
     "italic",
     "regular"
   ],
-  "totalFamilies": 1648
+  "totalFamilies": 1647
 }
