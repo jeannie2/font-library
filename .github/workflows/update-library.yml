@@ -53,3 +53,8 @@ jobs:
           gh pr create -B gh-pages -H "review-tags-${{ github.run_id }}" --fill
         env:
           GH_TOKEN: ${{ github.token }}
+
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          event-type: trigger-deploy
