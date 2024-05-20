@@ -55,6 +55,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
 
       - name: Repository Dispatch
+        if: env.UpdatedLibrary == 'true' && env.AutoTag != 'true'
         uses: peter-evans/repository-dispatch@v3
         with:
           event-type: trigger-deploy
