@@ -1596,7 +1596,7 @@ exports[`MainApp renders correctly 1`] = `
                 
             <button
               is="tag-button"
-              style="font-family: "Jacquard 12 Charted";"
+              style="font-family: "Jacquard 12";"
               title="knit"
               value="knit"
             >

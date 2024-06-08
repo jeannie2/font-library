@@ -4219,7 +4219,7 @@
     "variants": ["regular"],
     "subsets": ["vietnamese", "latin", "latin-ext"],
     "category": "serif",
-    "tags": [],
+    "tags": ["groovy"],
     "lineNumber": 347,
     "variable": false,
     "lastModified": "2024-05-13"
@@ -7638,7 +7638,7 @@
     "variants": ["regular"],
     "subsets": ["math", "symbols", "latin", "latin-ext"],
     "category": "display",
-    "tags": [],
+    "tags": ["knit"],
     "lineNumber": 614,
     "variable": false,
     "lastModified": "2024-05-13"
@@ -7828,7 +7828,7 @@
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
     "category": "display",
-    "tags": [],
+    "tags": ["knit", "sport"],
     "lineNumber": 633,
     "variable": false,
     "lastModified": "2024-05-02"
@@ -14932,7 +14932,7 @@
     "variants": ["regular"],
     "subsets": ["cyrillic", "cyrillic-ext", "vietnamese", "latin", "latin-ext"],
     "category": "handwriting",
-    "tags": [],
+    "tags": ["handwritten", "kids", "friendly"],
     "lineNumber": 1188,
     "variable": false,
     "lastModified": "2022-09-22"
@@ -16242,7 +16242,7 @@
     ],
     "subsets": ["latin", "latin-ext"],
     "category": "monospace",
-    "tags": [],
+    "tags": ["geometric", "code"],
     "lineNumber": 1289,
     "variable": true,
     "lastModified": "2023-09-14"
@@ -16330,7 +16330,7 @@
     ],
     "subsets": ["vietnamese", "latin", "latin-ext"],
     "category": "sans-serif",
-    "tags": [],
+    "tags": ["humanist"],
     "lineNumber": 1295,
     "variable": false,
     "lastModified": "2024-05-02"
@@ -19315,7 +19315,7 @@
     "variants": ["regular"],
     "subsets": ["cyrillic", "cyrillic-ext", "greek", "latin", "latin-ext"],
     "category": "sans-serif",
-    "tags": [],
+    "tags": ["game", "pixel", "retro"],
     "lineNumber": 1531,
     "variable": false,
     "lastModified": "2024-06-05"
@@ -19728,7 +19728,7 @@
       "latin-ext"
     ],
     "category": "sans-serif",
-    "tags": [],
+    "tags": ["modern"],
     "lineNumber": 1559,
     "variable": false,
     "lastModified": "2024-05-02"
