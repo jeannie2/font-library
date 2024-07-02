@@ -78,7 +78,7 @@
     },
     {
       "name": "brush",
-      "sample": "Alex Brush"
+      "sample": "Agbalumo"
     },
     {
       "name": "bubbly",
@@ -142,7 +142,7 @@
     },
     {
       "name": "cursive",
-      "sample": "Allura"
+      "sample": "Alex Brush"
     },
     {
       "name": "cute",
@@ -470,7 +470,7 @@
     },
     {
       "name": "slanted",
-      "sample": "Agbalumo"
+      "sample": "Alkatra"
     },
     {
       "name": "small caps",
@@ -770,5 +770,5 @@
     "italic",
     "regular"
   ],
-  "totalFamilies": 1690
+  "totalFamilies": 1699
 }
