@@ -21474,17 +21474,17 @@
     "lastModified": "2022-11-09"
   },
   {
-    "family": "Zen Antique",
-    "variants": ["regular"],
-    "subsets": ["cyrillic", "greek", "japanese", "latin", "latin-ext"],
-    "category": "serif",
-    "tags": ["japanese"],
+    "family": "Zain",
+    "variants": ["200", "300", "regular", "700", "800", "900"],
+    "subsets": ["arabic", "latin"],
+    "category": "sans-serif",
+    "tags": [],
     "lineNumber": 1703,
     "variable": false,
-    "lastModified": "2023-01-06"
+    "lastModified": "2024-07-18"
   },
   {
-    "family": "Zen Antique Soft",
+    "family": "Zen Antique",
     "variants": ["regular"],
     "subsets": ["cyrillic", "greek", "japanese", "latin", "latin-ext"],
     "category": "serif",
@@ -21494,12 +21494,22 @@
     "lastModified": "2023-01-06"
   },
   {
+    "family": "Zen Antique Soft",
+    "variants": ["regular"],
+    "subsets": ["cyrillic", "greek", "japanese", "latin", "latin-ext"],
+    "category": "serif",
+    "tags": ["japanese"],
+    "lineNumber": 1705,
+    "variable": false,
+    "lastModified": "2023-01-06"
+  },
+  {
     "family": "Zen Dots",
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
     "category": "display",
     "tags": ["futuristic", "techno"],
-    "lineNumber": 1705,
+    "lineNumber": 1706,
     "variable": false,
     "lastModified": "2023-08-25"
   },
@@ -21509,7 +21519,7 @@
     "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
     "category": "sans-serif",
     "tags": ["japanese"],
-    "lineNumber": 1706,
+    "lineNumber": 1707,
     "variable": false,
     "lastModified": "2023-08-25"
   },
@@ -21519,7 +21529,7 @@
     "subsets": ["cyrillic", "japanese", "latin", "latin-ext"],
     "category": "sans-serif",
     "tags": ["japanese"],
-    "lineNumber": 1707,
+    "lineNumber": 1708,
     "variable": false,
     "lastModified": "2023-08-25"
   },
@@ -21529,7 +21539,7 @@
     "subsets": ["cyrillic", "greek", "japanese", "latin", "latin-ext"],
     "category": "sans-serif",
     "tags": ["japanese", "handwritten"],
-    "lineNumber": 1708,
+    "lineNumber": 1709,
     "variable": false,
     "lastModified": "2023-08-25"
   },
@@ -21539,7 +21549,7 @@
     "subsets": ["latin", "latin-ext"],
     "category": "display",
     "tags": ["light"],
-    "lineNumber": 1709,
+    "lineNumber": 1710,
     "variable": false,
     "lastModified": "2023-08-25"
   },
@@ -21549,7 +21559,7 @@
     "subsets": ["cyrillic", "greek", "japanese", "latin", "latin-ext"],
     "category": "sans-serif",
     "tags": ["round", "cute"],
-    "lineNumber": 1710,
+    "lineNumber": 1711,
     "variable": false,
     "lastModified": "2023-08-25"
   },
@@ -21559,7 +21569,7 @@
     "subsets": ["cyrillic", "greek", "japanese", "latin", "latin-ext"],
     "category": "serif",
     "tags": [],
-    "lineNumber": 1711,
+    "lineNumber": 1712,
     "variable": false,
     "lastModified": "2023-01-06"
   },
@@ -21569,7 +21579,7 @@
     "subsets": ["latin", "latin-ext"],
     "category": "display",
     "tags": ["lines", "outline"],
-    "lineNumber": 1712,
+    "lineNumber": 1713,
     "variable": false,
     "lastModified": "2023-01-06"
   },
@@ -21579,7 +21589,7 @@
     "subsets": ["latin"],
     "category": "handwriting",
     "tags": ["scrawl"],
-    "lineNumber": 1713,
+    "lineNumber": 1714,
     "variable": false,
     "lastModified": "2023-08-25"
   },
@@ -21589,7 +21599,7 @@
     "subsets": ["chinese-simplified", "latin"],
     "category": "handwriting",
     "tags": ["calligraphic"],
-    "lineNumber": 1714,
+    "lineNumber": 1715,
     "variable": false,
     "lastModified": "2022-09-27"
   },
@@ -21610,7 +21620,7 @@
     "subsets": ["latin", "latin-ext"],
     "category": "serif",
     "tags": ["slab"],
-    "lineNumber": 1715,
+    "lineNumber": 1716,
     "variable": false,
     "lastModified": "2022-09-22"
   },
@@ -21620,7 +21630,7 @@
     "subsets": ["latin", "latin-ext"],
     "category": "serif",
     "tags": ["slab"],
-    "lineNumber": 1716,
+    "lineNumber": 1717,
     "variable": false,
     "lastModified": "2023-08-25"
   }
