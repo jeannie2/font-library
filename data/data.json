@@ -1105,7 +1105,7 @@
     "tags": ["japanese"],
     "lineNumber": 90,
     "variable": false,
-    "lastModified": "2023-05-23"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Arapey",
@@ -1644,7 +1644,7 @@
     "tags": [],
     "lineNumber": 133,
     "variable": false,
-    "lastModified": "2023-05-02"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "BIZ UDMincho",
@@ -1654,7 +1654,7 @@
     "tags": [],
     "lineNumber": 134,
     "variable": false,
-    "lastModified": "2023-01-18"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "BIZ UDPGothic",
@@ -1664,7 +1664,7 @@
     "tags": [],
     "lineNumber": 135,
     "variable": false,
-    "lastModified": "2023-09-27"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "BIZ UDPMincho",
@@ -1674,7 +1674,7 @@
     "tags": [],
     "lineNumber": 136,
     "variable": false,
-    "lastModified": "2023-01-18"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Babylonica",
@@ -3487,7 +3487,7 @@
     "tags": ["heavy", "cute", "japanese", "round"],
     "lineNumber": 289,
     "variable": false,
-    "lastModified": "2023-05-23"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Cherry Cream Soda",
@@ -3621,7 +3621,7 @@
     "tags": ["japanese", "funky"],
     "lineNumber": 298,
     "variable": false,
-    "lastModified": "2023-05-23"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Chonburi",
@@ -4333,7 +4333,7 @@
     "tags": ["handwritten"],
     "lineNumber": 356,
     "variable": false,
-    "lastModified": "2024-07-30"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "David Libre",
@@ -4397,7 +4397,7 @@
     "tags": ["heavy", "block", "wide"],
     "lineNumber": 361,
     "variable": false,
-    "lastModified": "2023-08-25"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Delicious Handrawn",
@@ -4614,7 +4614,7 @@
     "tags": ["pixel", "game"],
     "lineNumber": 382,
     "variable": false,
-    "lastModified": "2023-08-25"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Dr Sugiyama",
@@ -6753,7 +6753,7 @@
     "tags": ["1970s", "1980s", "cute", "japanese"],
     "lineNumber": 544,
     "variable": false,
-    "lastModified": "2023-08-25"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Hahmlet",
@@ -7022,7 +7022,7 @@
     "tags": ["japanese"],
     "lineNumber": 564,
     "variable": false,
-    "lastModified": "2023-08-25"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Hind",
@@ -7254,7 +7254,7 @@
     "tags": [],
     "lineNumber": 582,
     "variable": false,
-    "lastModified": "2023-04-27"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "IBM Plex Sans KR",
@@ -8280,7 +8280,7 @@
     "tags": [],
     "lineNumber": 665,
     "variable": false,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Kaisei HarunoUmi",
@@ -8290,7 +8290,7 @@
     "tags": [],
     "lineNumber": 666,
     "variable": false,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Kaisei Opti",
@@ -8300,7 +8300,7 @@
     "tags": ["japanese"],
     "lineNumber": 667,
     "variable": false,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Kaisei Tokumin",
@@ -8310,7 +8310,7 @@
     "tags": [],
     "lineNumber": 668,
     "variable": false,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Kalam",
@@ -8609,7 +8609,7 @@
     "tags": ["cute"],
     "lineNumber": 693,
     "variable": false,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Klee One",
@@ -8619,7 +8619,7 @@
     "tags": ["friendly", "round"],
     "lineNumber": 694,
     "variable": false,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Knewave",
@@ -9915,7 +9915,7 @@
     "tags": ["japanese"],
     "lineNumber": 789,
     "variable": true,
-    "lastModified": "2023-09-14"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "M PLUS 1 Code",
@@ -9925,7 +9925,7 @@
     "tags": ["code", "japanese"],
     "lineNumber": 790,
     "variable": true,
-    "lastModified": "2023-08-25"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "M PLUS 1p",
@@ -9945,7 +9945,7 @@
     "tags": ["japanese"],
     "lineNumber": 791,
     "variable": false,
-    "lastModified": "2023-05-02"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "M PLUS 2",
@@ -9965,7 +9965,7 @@
     "tags": ["japanese"],
     "lineNumber": 792,
     "variable": true,
-    "lastModified": "2023-09-14"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "M PLUS Code Latin",
@@ -9995,7 +9995,7 @@
     "tags": ["round"],
     "lineNumber": 794,
     "variable": false,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Ma Shan Zheng",
@@ -10408,7 +10408,7 @@
     "tags": ["outline", "icons"],
     "lineNumber": 832,
     "variable": false,
-    "lastModified": "2024-08-01"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Material Symbols Rounded",
@@ -10418,7 +10418,7 @@
     "tags": ["round", "icons"],
     "lineNumber": 833,
     "variable": false,
-    "lastModified": "2024-08-01"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Material Symbols Sharp",
@@ -10428,7 +10428,7 @@
     "tags": ["icons"],
     "lineNumber": 834,
     "variable": false,
-    "lastModified": "2024-08-01"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Maven Pro",
@@ -10760,7 +10760,7 @@
     "tags": ["japanese", "gothic", "cute", "manga"],
     "lineNumber": 865,
     "variable": false,
-    "lastModified": "2023-08-25"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Mochiy Pop P One",
@@ -10770,7 +10770,7 @@
     "tags": ["japanese", "gothic", "cute", "signage", "manga"],
     "lineNumber": 866,
     "variable": false,
-    "lastModified": "2023-08-25"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Modak",
@@ -10881,7 +10881,7 @@
     "tags": ["round", "heavy", "japanese"],
     "lineNumber": 876,
     "variable": false,
-    "lastModified": "2023-08-25"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Monoton",
@@ -11233,7 +11233,7 @@
     "tags": ["japanese"],
     "lineNumber": 904,
     "variable": true,
-    "lastModified": "2023-06-30"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "MuseoModerno",
@@ -11442,7 +11442,7 @@
     "tags": ["typewriter"],
     "lineNumber": 923,
     "variable": false,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "News Cycle",
@@ -12416,7 +12416,7 @@
     "tags": [],
     "lineNumber": 994,
     "variable": false,
-    "lastModified": "2023-05-02"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Noto Sans Javanese",
@@ -14029,7 +14029,7 @@
     "tags": ["japanese"],
     "lineNumber": 1117,
     "variable": false,
-    "lastModified": "2024-05-14"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Noto Serif KR",
@@ -15065,7 +15065,7 @@
     "tags": ["fun"],
     "lineNumber": 1198,
     "variable": false,
-    "lastModified": "2023-05-31"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Pangolin",
@@ -16248,7 +16248,7 @@
     "tags": ["brush"],
     "lineNumber": 1298,
     "variable": false,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Pragati Narrow",
@@ -16785,7 +16785,7 @@
     "tags": ["comic", "shadow"],
     "lineNumber": 1341,
     "variable": false,
-    "lastModified": "2023-08-25"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Ranchers",
@@ -17080,7 +17080,7 @@
     "tags": ["japanese"],
     "lineNumber": 1364,
     "variable": false,
-    "lastModified": "2023-09-06"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Rethink Sans",
@@ -17365,7 +17365,7 @@
     "tags": ["outline"],
     "lineNumber": 1380,
     "variable": false,
-    "lastModified": "2023-05-31"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Rock Salt",
@@ -17385,7 +17385,7 @@
     "tags": ["rock", "groovy"],
     "lineNumber": 1382,
     "variable": false,
-    "lastModified": "2024-05-02"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Rokkitt",
@@ -18264,7 +18264,7 @@
     "tags": ["japanese"],
     "lineNumber": 1450,
     "variable": false,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Sawarabi Mincho",
@@ -18274,7 +18274,7 @@
     "tags": ["japanese"],
     "lineNumber": 1451,
     "variable": false,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Scada",
@@ -18540,7 +18540,7 @@
     "tags": ["manga"],
     "lineNumber": 1475,
     "variable": false,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Shippori Antique B1",
@@ -18550,7 +18550,7 @@
     "tags": ["japanese"],
     "lineNumber": 1476,
     "variable": false,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Shippori Mincho",
@@ -18560,7 +18560,7 @@
     "tags": ["japanese"],
     "lineNumber": 1477,
     "variable": false,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Shippori Mincho B1",
@@ -18570,7 +18570,7 @@
     "tags": ["japanese", "light"],
     "lineNumber": 1478,
     "variable": false,
-    "lastModified": "2023-09-14"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Shizuru",
@@ -18580,7 +18580,7 @@
     "tags": ["outline", "handwritten"],
     "lineNumber": 1479,
     "variable": false,
-    "lastModified": "2023-05-31"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Shojumaru",
@@ -18780,7 +18780,7 @@
     "tags": ["japanese"],
     "lineNumber": 1499,
     "variable": false,
-    "lastModified": "2023-08-25"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Smokum",
@@ -19440,7 +19440,7 @@
     "tags": ["square"],
     "lineNumber": 1544,
     "variable": false,
-    "lastModified": "2023-08-25"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Stick No Bills",
@@ -20195,7 +20195,7 @@
     "tags": ["lines", "outline"],
     "lineNumber": 1608,
     "variable": false,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Trirong",
@@ -20294,7 +20294,7 @@
     "tags": ["round", "japanese"],
     "lineNumber": 1615,
     "variable": false,
-    "lastModified": "2023-08-25"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Tulpen One",
@@ -21226,7 +21226,7 @@
     "tags": ["thin"],
     "lineNumber": 1688,
     "variable": false,
-    "lastModified": "2023-10-25"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Young Serif",
@@ -21410,7 +21410,7 @@
     "tags": ["handwritten", "playful"],
     "lineNumber": 1695,
     "variable": false,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Yuji Hentaigana Akari",
@@ -21420,7 +21420,7 @@
     "tags": ["japanese", "calligraphic", "handwritten", "caps"],
     "lineNumber": 1696,
     "variable": false,
-    "lastModified": "2023-05-31"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Yuji Hentaigana Akebono",
@@ -21430,7 +21430,7 @@
     "tags": ["japanese", "calligraphic", "caps"],
     "lineNumber": 1697,
     "variable": false,
-    "lastModified": "2023-05-31"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Yuji Mai",
@@ -21440,7 +21440,7 @@
     "tags": ["swirl"],
     "lineNumber": 1698,
     "variable": false,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Yuji Syuku",
@@ -21450,7 +21450,7 @@
     "tags": ["typewriter"],
     "lineNumber": 1699,
     "variable": false,
-    "lastModified": "2022-09-27"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Yusei Magic",
@@ -21460,7 +21460,7 @@
     "tags": ["marker"],
     "lineNumber": 1700,
     "variable": false,
-    "lastModified": "2023-05-02"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "ZCOOL KuaiLe",
@@ -21510,7 +21510,7 @@
     "tags": ["japanese"],
     "lineNumber": 1705,
     "variable": false,
-    "lastModified": "2023-01-06"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Zen Antique Soft",
@@ -21520,7 +21520,7 @@
     "tags": ["japanese"],
     "lineNumber": 1706,
     "variable": false,
-    "lastModified": "2023-01-06"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Zen Dots",
@@ -21540,7 +21540,7 @@
     "tags": ["japanese"],
     "lineNumber": 1708,
     "variable": false,
-    "lastModified": "2023-08-25"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Zen Kaku Gothic New",
@@ -21550,7 +21550,7 @@
     "tags": ["japanese"],
     "lineNumber": 1709,
     "variable": false,
-    "lastModified": "2023-08-25"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Zen Kurenaido",
@@ -21560,7 +21560,7 @@
     "tags": ["japanese", "handwritten"],
     "lineNumber": 1710,
     "variable": false,
-    "lastModified": "2023-08-25"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Zen Loop",
@@ -21580,7 +21580,7 @@
     "tags": ["round", "cute"],
     "lineNumber": 1712,
     "variable": false,
-    "lastModified": "2023-08-25"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Zen Old Mincho",
@@ -21590,7 +21590,7 @@
     "tags": [],
     "lineNumber": 1713,
     "variable": false,
-    "lastModified": "2023-01-06"
+    "lastModified": "2024-08-07"
   },
   {
     "family": "Zen Tokyo Zoo",
