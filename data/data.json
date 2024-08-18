@@ -4750,7 +4750,7 @@
     "variants": ["regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext"],
     "category": "handwriting",
-    "tags": [],
+    "tags": ["slanted", "literacy"],
     "lineNumber": 394,
     "variable": false,
     "lastModified": "2024-07-16"
@@ -5819,7 +5819,7 @@
     "variants": ["regular"],
     "subsets": ["vietnamese", "latin", "latin-ext"],
     "category": "display",
-    "tags": [],
+    "tags": ["heavy", "gothic"],
     "lineNumber": 470,
     "variable": false,
     "lastModified": "2024-08-12"
@@ -8347,7 +8347,7 @@
     "variants": ["100", "200", "300", "regular", "500", "600", "700"],
     "subsets": ["latin", "latin-ext"],
     "category": "display",
-    "tags": [],
+    "tags": ["gradient", "color", "outline"],
     "lineNumber": 672,
     "variable": false,
     "lastModified": "2024-07-16"
@@ -10182,7 +10182,7 @@
       "latin-ext"
     ],
     "category": "sans-serif",
-    "tags": [],
+    "tags": ["round"],
     "lineNumber": 811,
     "variable": true,
     "lastModified": "2024-08-12"
@@ -15575,7 +15575,7 @@
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
     "category": "handwriting",
-    "tags": [],
+    "tags": ["cursive", "connected"],
     "lineNumber": 1238,
     "variable": false,
     "lastModified": "2024-08-12"
@@ -15594,7 +15594,7 @@
     ],
     "subsets": ["latin"],
     "category": "handwriting",
-    "tags": [],
+    "tags": ["cursive", "connected"],
     "lineNumber": 1239,
     "variable": false,
     "lastModified": "2024-08-12"
@@ -15654,7 +15654,7 @@
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
     "category": "handwriting",
-    "tags": [],
+    "tags": ["cursive", "connected", "slanted"],
     "lineNumber": 1245,
     "variable": false,
     "lastModified": "2024-08-12"
@@ -15714,7 +15714,7 @@
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
     "category": "handwriting",
-    "tags": [],
+    "tags": ["cursive", "connected", "slanted"],
     "lineNumber": 1251,
     "variable": false,
     "lastModified": "2024-08-12"
@@ -15724,7 +15724,7 @@
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
     "category": "handwriting",
-    "tags": [],
+    "tags": ["cursive", "connected", "slanted"],
     "lineNumber": 1252,
     "variable": false,
     "lastModified": "2024-08-12"
@@ -15734,7 +15734,7 @@
     "variants": ["100", "200", "300", "regular"],
     "subsets": ["latin"],
     "category": "handwriting",
-    "tags": [],
+    "tags": ["literacy"],
     "lineNumber": 1253,
     "variable": false,
     "lastModified": "2024-08-12"
@@ -19192,7 +19192,7 @@
       "latin-ext"
     ],
     "category": "sans-serif",
-    "tags": [],
+    "tags": ["legibility"],
     "lineNumber": 1526,
     "variable": true,
     "lastModified": "2024-08-12"
