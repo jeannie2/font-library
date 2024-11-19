@@ -2960,7 +2960,7 @@
     "variants": ["regular"],
     "subsets": ["vietnamese", "latin", "latin-ext"],
     "category": "display",
-    "tags": [],
+    "tags": ["color", "caps"],
     "lineNumber": 240,
     "variable": false,
     "lastModified": "2024-09-04"
@@ -4661,7 +4661,7 @@
     ],
     "subsets": ["latin", "latin-ext"],
     "category": "sans-serif",
-    "tags": [],
+    "tags": ["dotted", "code"],
     "lineNumber": 385,
     "variable": false,
     "lastModified": "2024-11-07"
@@ -6191,7 +6191,7 @@
     ],
     "subsets": ["latin", "latin-ext"],
     "category": "sans-serif",
-    "tags": [],
+    "tags": ["modern"],
     "lineNumber": 501,
     "variable": false,
     "lastModified": "2024-11-07"
@@ -10588,7 +10588,7 @@
     "variants": ["regular"],
     "subsets": ["latin", "latin-ext"],
     "category": "sans-serif",
-    "tags": [],
+    "tags": ["fat", "cute", "round", "cartoon"],
     "lineNumber": 842,
     "variable": false,
     "lastModified": "2024-11-07"
@@ -11040,7 +11040,7 @@
     "variants": ["300", "regular", "500", "600", "700", "800"],
     "subsets": ["cyrillic", "cyrillic-ext", "greek", "latin", "latin-ext"],
     "category": "sans-serif",
-    "tags": [],
+    "tags": ["modern"],
     "lineNumber": 885,
     "variable": false,
     "lastModified": "2024-09-04"
@@ -19037,7 +19037,7 @@
     "variants": ["regular"],
     "subsets": ["math", "symbols", "latin", "latin-ext"],
     "category": "monospace",
-    "tags": [],
+    "tags": ["color", "pixel", "game", "gradient", "retro"],
     "lineNumber": 1515,
     "variable": false,
     "lastModified": "2024-09-30"
@@ -19421,7 +19421,7 @@
     ],
     "subsets": ["latin", "latin-ext"],
     "category": "sans-serif",
-    "tags": [],
+    "tags": ["round", "fun", "playful", "kids"],
     "lineNumber": 1542,
     "variable": false,
     "lastModified": "2024-11-07"
