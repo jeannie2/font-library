@@ -3,7 +3,7 @@
 exports[`MainApp renders correctly 1`] = `
 <main-app
   current-page="1"
-  results-length="1739"
+  results-length="1743"
 >
   
       
@@ -5324,16 +5324,16 @@ exports[`MainApp renders correctly 1`] = `
         
             
         <search-status
-          results-length="1739"
+          results-length="1743"
         >
           <div>
-            Found 1739 fonts
+            Found 1743 fonts
           </div>
         </search-status>
         
             
         <sort-by
-          results-length="1739"
+          results-length="1743"
           sort-by="family"
         >
           <div
@@ -5362,7 +5362,7 @@ exports[`MainApp renders correctly 1`] = `
             
         <ul
           class="families"
-          fonts="[{"family":"ABeeZee","variants":["regular","italic"],"subsets":["latin","latin-ext"],"category":"sans-serif","tags":["literacy","kids"],"lineNumber":2,"variable":false,"lastModified":"2024-09-04"},{"family":"Abel","variants":["regular"],"subsets":["latin"],"category":"sans-serif","tags":["condensed"],"lineNumber":5,"variable":false,"lastModified":"2024-09-04"},{"family":"Abhaya Libre","variants":["regular","500","600","700","800"],"subsets":["sinhala","latin","latin-ext"],"category":"serif","tags":[],"lineNumber":6,"variable":false,"lastModified":"2024-09-04"},{"family":"Aboreto","variants":["regular"],"subsets":["latin","latin-ext"],"category":"display","tags":["caps"],"lineNumber":7,"variable":false,"lastModified":"2024-09-04"},{"family":"Abril Fatface","variants":["regular"],"subsets":["latin","latin-ext"],"category":"display","tags":["heavy","elegant","didone","headlines"],"lineNumber":8,"variable":false,"lastModified":"2024-09-04"},{"family":"Abyssinica SIL","variants":["regular"],"subsets":["ethiopic","latin","latin-ext"],"category":"serif","tags":[],"lineNumber":9,"variable":false,"lastModified":"2024-09-04"},{"family":"Aclonica","variants":["regular"],"subsets":["latin"],"category":"sans-serif","tags":["modern","friendly"],"lineNumber":10,"variable":false,"lastModified":"2024-09-04"},{"family":"Acme","variants":["regular"],"subsets":["latin"],"category":"sans-serif","tags":["cartoon","comic","groovy","headlines"],"lineNumber":11,"variable":false,"lastModified":"2024-09-04"},{"family":"Actor","variants":["regular"],"subsets":["latin"],"category":"sans-serif","tags":["thin","legibility"],"lineNumber":12,"variable":false,"lastModified":"2024-09-04"},{"family":"Adamina","variants":["regular"],"subsets":["latin"],"category":"serif","tags":["compact","small sizes","transitional"],"lineNumber":13,"variable":false,"lastModified":"2024-09-04"}]"
+          fonts="[{"family":"ABeeZee","variants":["regular","italic"],"subsets":["latin","latin-ext"],"category":"sans-serif","tags":["literacy","kids"],"lineNumber":2,"variable":false,"lastModified":"2024-09-04"},{"family":"Abel","variants":["regular"],"subsets":["latin"],"category":"sans-serif","tags":["condensed"],"lineNumber":5,"variable":false,"lastModified":"2024-09-04"},{"family":"Abhaya Libre","variants":["regular","500","600","700","800"],"subsets":["sinhala","latin","latin-ext"],"category":"serif","tags":[],"lineNumber":6,"variable":false,"lastModified":"2024-09-04"},{"family":"Aboreto","variants":["regular"],"subsets":["latin","latin-ext"],"category":"display","tags":["caps"],"lineNumber":7,"variable":false,"lastModified":"2024-09-04"},{"family":"Abril Fatface","variants":["regular"],"subsets":["latin","latin-ext"],"category":"display","tags":["heavy","elegant","didone","headlines"],"lineNumber":8,"variable":false,"lastModified":"2024-09-04"},{"family":"Abyssinica SIL","variants":["regular"],"subsets":["ethiopic","latin","latin-ext"],"category":"serif","tags":[],"lineNumber":9,"variable":false,"lastModified":"2024-11-20"},{"family":"Aclonica","variants":["regular"],"subsets":["latin","latin-ext"],"category":"sans-serif","tags":["modern","friendly"],"lineNumber":10,"variable":false,"lastModified":"2024-11-20"},{"family":"Acme","variants":["regular"],"subsets":["latin"],"category":"sans-serif","tags":["cartoon","comic","groovy","headlines"],"lineNumber":11,"variable":false,"lastModified":"2024-09-04"},{"family":"Actor","variants":["regular"],"subsets":["latin"],"category":"sans-serif","tags":["thin","legibility"],"lineNumber":12,"variable":false,"lastModified":"2024-09-04"},{"family":"Adamina","variants":["regular"],"subsets":["latin"],"category":"serif","tags":["compact","small sizes","transitional"],"lineNumber":13,"variable":false,"lastModified":"2024-09-04"}]"
           is="font-list"
         >
           <li
@@ -5994,7 +5994,7 @@ exports[`MainApp renders correctly 1`] = `
           
 
           <li
-            font="{"family":"Abyssinica SIL","variants":["regular"],"subsets":["ethiopic","latin","latin-ext"],"category":"serif","tags":[],"lineNumber":9,"variable":false,"lastModified":"2024-09-04"}"
+            font="{"family":"Abyssinica SIL","variants":["regular"],"subsets":["ethiopic","latin","latin-ext"],"category":"serif","tags":[],"lineNumber":9,"variable":false,"lastModified":"2024-11-20"}"
             is="font-item"
           >
             <div
@@ -6106,7 +6106,7 @@ exports[`MainApp renders correctly 1`] = `
           
 
           <li
-            font="{"family":"Aclonica","variants":["regular"],"subsets":["latin"],"category":"sans-serif","tags":["modern","friendly"],"lineNumber":10,"variable":false,"lastModified":"2024-09-04"}"
+            font="{"family":"Aclonica","variants":["regular"],"subsets":["latin","latin-ext"],"category":"sans-serif","tags":["modern","friendly"],"lineNumber":10,"variable":false,"lastModified":"2024-11-20"}"
             is="font-item"
           >
             <div
@@ -6158,9 +6158,9 @@ exports[`MainApp renders correctly 1`] = `
             
                     <li>
                       <span
-                        aria-label="latin"
+                        aria-label="latin, latin-ext"
                       >
-                        1 subsets
+                        2 subsets
                       </span>
                     </li>
                     
@@ -6648,7 +6648,7 @@ exports[`MainApp renders correctly 1`] = `
             
         <pagination-buttons
           current-page="1"
-          results-length="1739"
+          results-length="1743"
         >
           <button
             class="btn"
@@ -6664,7 +6664,7 @@ exports[`MainApp renders correctly 1`] = `
             class="page-count"
             id="page-count"
           >
-            1 of 174
+            1 of 175
           </div>
           
 
